@@ -1,0 +1,7 @@
+name: CloudFlare CMI
+type: module
+description: Import/Export CloudFlare API settings with CMI.
+core: 8.x
+package: Web services
+dependencies:
+  - cloudflare

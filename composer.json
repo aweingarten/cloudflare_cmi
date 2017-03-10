@@ -1,0 +1,11 @@
+{
+  "name": "drupal/cloudflare_cmi",
+  "type": "drupal-module",
+  "description": " Import/Export CloudFlare API settings with CMI",
+  "keywords": ["Drupal", "CloudFlare", "Cloud Flare", "CDN"],
+  "homepage": "https://github.com/d8-contrib-modules/cloudflare",
+  "license": "GPL-2.0+"
+}
+
+
+
